@@ -1,0 +1,80 @@
+.btn-app {
+    border-radius: 5px;
+    background-color: yellowgreen;
+    justify-content: center;
+    color: white;
+
+}
+
+.nav-center {
+    justify-content: center;
+    background-color: yellowgreen;
+
+
+}
+
+.heading-div {
+    text-align: center;
+    background-color: white;
+    margin-top: 80px;
+    color: yellowgreen;
+}
+
+.crop-doctor {
+    color: green;
+}
+
+.img-size {
+    box-sizing: border-box;
+    height: 350px;
+    overflow: hidden;
+    width: 450px;
+}
+
+
+
+.floating {
+    float: left;
+}
+
+/* community css */
+.community {
+    justify-content: center;
+
+    color: green;
+
+    margin: auto;
+
+
+}
+
+.pages-heading {
+    text-align: center;
+    color: yellowgreen;
+    margin-bottom: 20px;
+    background-color: black;
+    margin-top: 60px;
+}
+
+.pages-section {
+    background-color: azure;
+}
+
+.blog {
+    justify-content: center;
+
+    color: green;
+
+    margin: auto;
+}
+
+.footer-clr {
+    background-color: black;
+    margin-top: 100px;
+    padding: 50px;
+    color: aliceblue;
+}
+
+.blog-color {
+    background-color: azure;
+}
